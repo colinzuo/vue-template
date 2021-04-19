@@ -1,5 +1,7 @@
 # vue-template
 
+因为做到一部分后决定转到其它技术栈，所以不继续更新只是Archive。
+
 ## Project setup
 ```
 npm install
